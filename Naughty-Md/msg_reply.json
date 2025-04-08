@@ -1,0 +1,29 @@
+{
+  "replyMsg": {
+    "giveme": "*Please Provide A Text 🤳*",
+    "giv":    "*Please Provide A Url Or Text ⛄*",
+    "not_fo": "*Sorry I Couldn't Find Anything ❌*",
+    "url": "*Please Provide A Url 🖇️*",
+    "valid_op": "*Invalid Option Selected. Please Select A Valid Option* 🗣️",
+    "own_cmd": "*This Is Owner Only Command ⚠️*",
+    "only_gp": "*This Command Works In Group Only 🔒*",
+    "give_adm":"*Please Make Me Admin First* 💁‍♂️",
+    "you_adm": "*You Must Be An Admin First 😅*",
+    "band_users": "*You Are Banded For Using Commands ⛔*",
+    "err": "*An Unexpected Error Happened 🛠️*",
+    "file_suc": "*File Send Successful* 💗",
+    "megaurl": "*Please Provide A Valid Mega Url* 🙇",
+    "capcuturl": "*Please Provide A Valid Capcut Url* 🤾",
+    "fburl": "*Please Provide A Valid Facebook Url* 🌞",
+    "tikurl": "*Please Provide A Valid Tiktok Url* 💢",
+   "instaurl": "*Please Provide A Valid Capcut Url* 🩸",
+   "twiurl": "*Please Provide A Valid Twitter (X) Url* 🧚‍♂️",
+    "mfireurl": "*Please Provide A Valid Mediafire Url* 🦠",
+    "directurl": "*Please Provide A Direct Link* 🤹",
+    "wait": "*Please Wait...* 🕴️",
+    "dark_only": "*Dark Developers Only 👽*"
+   
+   
+   
+      }  
+}
